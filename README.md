@@ -4,6 +4,8 @@ A Streamlit app that summarizes a lengthy business PDF document (such as an earn
 
 **[Watch the demo](your-loom-link-here)**
 
+Screenshot preview of app in browser:
+
 ![App screenshot](assets/summary_app.png)
 
 [Example summary PDF document](assets/summary_document.pdf)
