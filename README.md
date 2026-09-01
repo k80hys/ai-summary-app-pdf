@@ -6,7 +6,7 @@ A Streamlit app that summarizes a lengthy business PDF document (such as an earn
 
 ![App screenshot](assets/summary_app.png)
 
-![Example summary PDF document](assets/summary_document.pdf)
+[Example summary PDF document](assets/summary_document.pdf)
 
 **Tech stack:** Streamlit · LangChain · OpenAI API · Quarto
 
