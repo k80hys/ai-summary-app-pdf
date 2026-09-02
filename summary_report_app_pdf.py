@@ -1,8 +1,5 @@
-# BUSINESS SCIENCE UNIVERSITY
-# PYTHON FOR GENERATIVE AI COURSE
-# CHALLENGE - CREATE A CALL REPORT APP
-# ***
-# GOAL: Exposure to using LLM's, Document Loaders, and Prompts
+# App to summarize business documents such as call transcripts in PDF format 
+# and generate a summary report in PDF format using Quarto
 
 # streamlit run summary_report_app_pdf.py
 
